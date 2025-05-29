@@ -1,28 +1,39 @@
-📡 RTSP Video Streaming
-Stream high-quality video directly from the payload camera with low latency via RTSP.
+# Payload Plus
 
-🎯 Touch-to-Track Object Selection
-Simply tap on the video screen to select and track objects in real-time.
+A cross-platform application supporting Gremsy Payloads for real-time video streaming and gimbal control.
 
-🎮 Gimbal Mode Control
-Easily switch between gimbal modes:
+## Features
 
-OFF – Disable gimbal control
-FOLLOW – Follow platform movement
-LOCK – Lock camera direction
+### RTSP Video Streaming
+Stream high-quality, low-latency video directly from the payload camera.
 
-🔍 Camera Zoom Control
-Smoothly zoom in and out to focus on specific targets or areas.
+### Touch-to-Track Object Selection
+Tap on the video screen to select and track objects in real time.
 
-🌗 Multi-Mode Camera Views
-Toggle between various viewing modes based on mission needs:
-EO, IR, EO/IR, IR/EO, and SYNC.
+### Gimbal Mode Control
+Easily switch between gimbal operation modes:
 
-⏺️ Video Recording
-Record the live video feed directly from the payload for later review and analysis.
+- OFF: Disable gimbal control  
+- FOLLOW: Follow platform movement  
+- LOCK: Lock camera direction
 
-📸 Image Capture
-Instantly capture high-resolution still images from the live video.
+### Camera Zoom Control
+Smooth zoom in and out to focus on specific targets or areas.
 
-🧭 Gimbal Tilt & Pan Control
-Precisely control gimbal movement in both tilt (up/down) and pan (left/right) directions for maximum situational awareness.
+### Multi-Mode Camera Views
+Switch between various camera viewing modes based on mission needs:
+
+- EO  
+- IR  
+- EO/IR  
+- IR/EO  
+- SYNC
+
+### Video Recording
+Record the live video feed from the payload for later review and analysis.
+
+### Image Capture
+Capture high-resolution still images directly from the video stream.
+
+### Gimbal Tilt and Pan Control
+Control gimbal movement precisely in both tilt (up/down) and pan (left/right) directions to maximize situational awareness.
