@@ -4,14 +4,14 @@
       "open-url": "https://github.com/Gremsy/Payload-Plus/releases/download/v1.2.0/Payload-Plus_Windows_V1.2.0.zip",
       "latest-version": "v1.2.0",
       "download-url": "https://github.com/Gremsy/Payload-Plus/releases/download/v1.2.0/Payload-Plus_Windows_V1.2.0.zip",
-      "changelog": "## What new?\n\n- Support payload **v3.0.0.0** or higher\n- Enable **Eagle Eye** for payload\n- Add **application upgrade check**",
+      "changelog": "- Support payload v3.0.0.0 or higher\n- Enable Eagle Eye for payload\n- Add application upgrade check",
       "mandatory": true
     },
     "ubuntu": {
       "open-url": "https://github.com/Gremsy/Payload-Plus/releases/download/v1.2.0/Payload-Plus_Ubuntu_V1.2.0.zip",
       "latest-version": "v1.2.0",
       "download-url": "https://github.com/Gremsy/Payload-Plus/releases/download/v1.2.0/Payload-Plus_Ubuntu_V1.2.0.zip",
-      "changelog": "## What new?\n\n- Support payload **v3.0.0.0** or higher\n- Enable **Eagle Eye** for payload\n- Add **application upgrade check**",
+      "changelog": "- Support payload v3.0.0.0 or higher\n- Enable Eagle Eye for payload\n- Add application upgrade check",
       "mandatory": true
     }
   }
